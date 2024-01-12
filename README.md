@@ -6,8 +6,10 @@ I'm a student at Moi University pursuing a Bachelor of Science in Computer Scien
   - Fullstack Web Developer
 
   
-## Send an email:
+## Contact:
   - Email     : **brianotieno586@gmail.com**
+  - Twitter     : **https://twitter.com/_b0ller**
+  - LinkedIn     : **linkedin.com/in/brian-otieno-64a902213**
 
 
 <!--

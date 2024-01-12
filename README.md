@@ -1,4 +1,15 @@
-Hello there
+# Brian Otieno
+I'm a student at Moi University pursuing a Bachelor of Science in Computer Science.
+
+
+## Skills:
+  - Fullstack Web Developer
+
+  
+## Send an email:
+  - Email     : **brianotieno586@gmail.com**
+
+
 <!--
 **b0ller/b0ller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

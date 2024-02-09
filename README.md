@@ -3,7 +3,8 @@ I'm a student at Moi University pursuing a Bachelor of Science in Computer Scien
 
 
 ## Skills:
-  - Fullstack Web Developer
+  - Front-end Web Developer
+  - Just a touch of Back-end 😄😄
 
   
 ## Contact:
@@ -11,6 +12,8 @@ I'm a student at Moi University pursuing a Bachelor of Science in Computer Scien
   - Twitter     : **https://twitter.com/oluoko_**
   - LinkedIn     : **https://www.linkedin.com/in/brian-otieno-64a902213**
 
+
+## More:
 - 🔭 I’m currently working on a tours and travelling website.
 - 💬 Ask me about: HTML, CSS, JS, React JS.
 <!--

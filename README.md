@@ -8,10 +8,11 @@ I'm a student at Moi University pursuing a Bachelor of Science in Computer Scien
   
 ## Contact:
   - Email     : **brianotieno586@gmail.com**
-  - Twitter     : **https://twitter.com/_b0ller**
+  - Twitter     : **https://twitter.com/oluoko_**
   - LinkedIn     : **https://www.linkedin.com/in/brian-otieno-64a902213**
 
-
+- 🔭 I’m currently working on a tours and travelling website.
+- 💬 Ask me about: HTML, CSS, JS, React JS.
 <!--
 **b0ller/b0ller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -7,7 +7,8 @@
 
 - 📫 How to reach me **brianotieno586@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1r75YJhfcUEZvzuFYd0IwwWSfLJ9gWgq0yaF3PpYrA_Q/edit?usp=sharing](https://docs.google.com/document/d/1r75YJhfcUEZvzuFYd0IwwWSfLJ9gWgq0yaF3PpYrA_Q/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1r75YJhfcUEZvzuFYd0IwwWSfLJ9gWgq0yaF3PpYrA_Q/edit?usp=sharing](<a href="https://docs.google.com/document/d/1r75YJhfcUEZvzuFYd0IwwWSfLJ9gWgq0yaF3PpYrA_Q/edit?usp=sharing">Resume</a>)
+- Pronouns: He/Him
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

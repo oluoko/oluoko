@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm Brian Otieno</h1>
 <h3 align="center">I'm a student at Moi University pursuing a Bachelor of Science in Computer Science. I am a passionate frontend web developer. I currently fortifying my skill in the back end</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oluoko" alt="oluoko" /></a> </p>
+<!--
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oluoko" alt="oluoko" /></a> </p>-->
 
 - 🔭 I’m currently working on **Chat-astrophic**
 

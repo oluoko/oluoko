@@ -22,7 +22,7 @@
 <a href="https://dribbble.com/_b0ller" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="_b0ller" height="30" width="40" /></a>
 <a href="https://www.behance.net/brianotieno18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="brianotieno18" height="30" width="40" /></a>
 <a href="https://medium.com/@brianotieno586" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@brianotieno586" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/bu_lai_en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bu_lai_en" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC1n8QvoeaVxwkxLQhQBnElw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bu_lai_en" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

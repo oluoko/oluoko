@@ -4,7 +4,7 @@
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oluoko" alt="oluoko" /></a> </p>-->
 
-- 🔭 I’m currently working on perfecting my back-end skill using the M.E.R.N stack
+- 🔭 I’m currently working on perfecting my back-end skills using the M.E.R.N stack
 
 - 📫 How to reach me **brianotieno586@gmail.com**
 

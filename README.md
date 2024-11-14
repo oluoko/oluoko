@@ -1,5 +1,5 @@
 <div style="width: 100%;">
-  <a href="https://github.com/oluoko/oluoko/edit/main/README.svg">
+  <a href="https://github.com/oluoko/oluoko/blob/main/README.svg">
     <img src="README.svg" style="width: 100%;" alt="Click to see the source svg file."></a>
 </div>
 

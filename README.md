@@ -12,7 +12,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Software Developer
 ------------------
 
-I'm a student at Moi University pursuing a Bachelor of Science in Computer Science. I am a passionate frontend web developer.
+I'm a student at Moi University pursuing a Bachelor of Science in Computer Science. I am a passionate frontend developer.
 
 * ✉️  You can contact me at [brianotieno586@gmail.com](mailto:brianotieno586@gmail.com)
 

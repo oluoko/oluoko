@@ -1,6 +1,6 @@
 ****software developer****
 
-this is where i keep all my spaghetti code; my good code is on another account.
+this is where i store my spaghetti code; my well-seasoned stuff lives elsewhere.
 <!--
 <div style="width: 100%;">
   <img src="README.svg" style="width: 100%;" alt="Click to see the source">
